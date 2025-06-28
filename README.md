@@ -18,7 +18,7 @@ I'm always curious to learn new tech and exploring **AWS** and **Cloud** stuff t
 
 ---
 
-## 🚀 Popular Directories
+## 🚀 Popular Repos
 
 - 🔗 [Data Structure & Algorithms](https://github.com/vikrantthakur003/Data-Structure-Problems)
 - 🔗 [System Design LLD Problem](https://github.com/vikrantthakur003/Parking-Lot-LLD-System-Design)

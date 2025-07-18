@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vikrant!
 
-I'm a **Full Stack Engineer** from 🇮🇳 India with 1+ year of experience.  
+I'm a **Full Stack Engineer** from 🇮🇳 India with 1.5+ years of experience.  
 I love building clean, user-friendly web apps using **JavaScript**, **React**, and the **MERN stack**.
 
 Currently, I'm working at a fast-growing startup, where I turn ideas into working products.  
